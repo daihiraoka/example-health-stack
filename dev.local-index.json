@@ -1,0 +1,13 @@
+[
+	{
+		"displayName": "Local Open Liberty default template",
+		"description": "Open Liberty \u0026 OpenJ9 using Maven",
+		"language": "java",
+		"projectType": "appsodyExtension",
+		"projectStyle": "Appsody",
+		"location": "file:///Users/dai/.appsody/stacks/dev.local/example-health-stack-dev.v0.2.3.templates.default.tar.gz",
+		"links": {
+			"self": "/devfiles/example-health-stack-dev/devfile.yaml"
+		}
+	}
+]
